@@ -24,7 +24,7 @@ Index of Contents:
       - XLNetTokenizer
     - Normalizing word formats.
       - Spelling Correction using Minimum Edit Distance(MED) and english_words_set.
-4. Word Representations
+4. Topic Modelling
     - TFIDF - statistically measuring importance of each word in classifying a certain document in a given corpus of documents.
     - Topic Modelling using sci-kit learn's TFIDF and gensim's implementation.
     
